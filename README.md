@@ -116,10 +116,10 @@
 </head>
 <body class="min-h-screen bg-gradient-to-b from-var(--light) to-white">
     <!-- Hero Section -->
-    <section class="relative min-h-[80vh] flex items-center justify-center bg-[url('https://drive.google.com/uc?export=view&id=1-WCsZw9Wi6aXZSshZd6SJGVUc7o00A9Q')] bg-cover bg-center">
+    <section class="relative min-h-[80vh] flex items-center justify-center bg-[url('images/coffee-break-collection-hero.jpg')] bg-cover bg-center">
         <div class="absolute inset-0 bg-black bg-opacity-30"></div>
         <div class="relative z-10 text-center px-4 max-w-4xl mx-auto">
-            <img src="lofbergs-logo.png" alt="Löfbergs" class="h-16 mx-auto mb-8">
+            <img src="images/lofbergs-logo.png" alt="Löfbergs" class="h-16 mx-auto mb-8">
             <h1 class="title text-5xl md:text-6xl text-white mb-4">The Coffee Break Collection</h1>
             <p class="text-xl text-white mb-8">Take a Break, Play Together</p>
             <a href="#games" class="btn bg-var(--secondary) hover:bg-var(--primary) text-white py-3 px-8 rounded-full text-lg font-medium transition-all">
@@ -135,10 +135,10 @@
         <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
             <!-- Game 1 -->
             <div class="card rounded-xl p-6 bg-white shadow-lg hover:shadow-xl transition-shadow">
-                <img src="https://drive.google.com/uc?export=view&id=19lmFC5hkBpGDrsAqVazPaJc60v0w790W" alt="Brew Battle" class="w-full h-48 object-contain mb-4">
+                <img src="images/brew-battle-game.jpg" alt="Brew Battle" class="w-full h-48 object-contain mb-4">
                 <div class="flex justify-between items-start mb-2">
                     <h3 class="text-xl font-bold">Brew Battle</h3>
-                    <img src="lofbergs-logo-small.png" alt="Löfbergs" class="h-6">
+                    <img src="images/lofbergs-logo-small.png" alt="Löfbergs" class="h-6">
                 </div>
                 <p class="text-gray-600 mb-4">A fast-paced coffee trivia game for the office break room.</p>
                 <button class="btn w-full bg-var(--primary) hover:bg-var(--secondary) text-white py-2 rounded-lg">
@@ -148,7 +148,7 @@
 
             <!-- Game 2 -->
             <div class="card rounded-xl p-6 bg-white shadow-lg hover:shadow-xl transition-shadow">
-                <img src="https://drive.google.com/uc?export=view&id=19lmFC5hkBpGDrsAqVazPaJc60v0w790W" alt="Bean Bingo" class="w-full h-48 object-contain mb-4">
+                <img src="images/bean-bingo-game.jpg" alt="Bean Bingo" class="w-full h-48 object-contain mb-4">
                 <div class="flex justify-between items-start mb-2">
                     <h3 class="text-xl font-bold">Bean Bingo</h3>
                     <img src="lofbergs-logo-small.png" alt="Löfbergs" class="h-6">
@@ -161,7 +161,7 @@
 
             <!-- Game 3 -->
             <div class="card rounded-xl p-6 bg-white shadow-lg hover:shadow-xl transition-shadow">
-                <img src="https://drive.google.com/uc?export=view&id=19lmFC5hkBpGDrsAqVazPaJc60v0w790W" alt="Espresso Escape" class="w-full h-48 object-contain mb-4">
+                <img src="images/espresso-escape-game.jpg" alt="Espresso Escape" class="w-full h-48 object-contain mb-4">
                 <div class="flex justify-between items-start mb-2">
                     <h3 class="text-xl font-bold">Espresso Escape</h3>
                     <img src="lofbergs-logo-small.png" alt="Löfbergs" class="h-6">
